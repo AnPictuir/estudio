@@ -7,6 +7,9 @@
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#menu-0 .mbr-navbar__items a {
+  font-size: 15px;
+}
 #slider-1 H1 {
   text-align: left;
   color: #fac51c;
@@ -16,14 +19,16 @@
 }
 #content5-h .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #fac51c;
+  font-size: 30px;
 }
 #content5-h .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
 #content5-h .mbr-article {
-  color: #fff;
+  color: #fac51c;
+  font-size: 20px;
 }
 #msg-box2-6 .mbr-header .mbr-header__text {
   color: #252525;
@@ -37,6 +42,12 @@
   text-align: right;
 }
 #msg-box2-7 .mbr-article {
+  color: #252525;
+}
+#msg-box2-j .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-j .mbr-article {
   color: #252525;
 }
 #contacts2-d P {
